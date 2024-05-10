@@ -1,0 +1,5 @@
+:root {
+  /*----重新定义 element-plus 变量值 (会影响到子应用)----*/
+  --el-color-primary: #046af9 !important;
+  --el-color-primary-light-3: #3889fa !important;
+}
